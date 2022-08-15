@@ -1,0 +1,14 @@
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\bin\Debug\netcoreapp3.1\HindiSubscriber.exe
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\bin\Debug\netcoreapp3.1\HindiSubscriber.deps.json
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\bin\Debug\netcoreapp3.1\HindiSubscriber.runtimeconfig.json
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\bin\Debug\netcoreapp3.1\HindiSubscriber.runtimeconfig.dev.json
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\bin\Debug\netcoreapp3.1\HindiSubscriber.dll
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\bin\Debug\netcoreapp3.1\HindiSubscriber.pdb
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\obj\Debug\netcoreapp3.1\HindiSubscriber.csproj.AssemblyReference.cache
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\obj\Debug\netcoreapp3.1\HindiSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\obj\Debug\netcoreapp3.1\HindiSubscriber.AssemblyInfoInputs.cache
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\obj\Debug\netcoreapp3.1\HindiSubscriber.AssemblyInfo.cs
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\obj\Debug\netcoreapp3.1\HindiSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\obj\Debug\netcoreapp3.1\HindiSubscriber.dll
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\obj\Debug\netcoreapp3.1\HindiSubscriber.pdb
+C:\Users\BhatiR02a\source\repos\AzureServiceQueue\HIndiSubscriber\obj\Debug\netcoreapp3.1\HindiSubscriber.genruntimeconfig.cache
